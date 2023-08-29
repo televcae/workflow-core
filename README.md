@@ -1,4 +1,4 @@
-# Workflow Core
+# Workflow Core 1
 
 [![Build status](https://ci.appveyor.com/api/projects/status/xnby6p5v4ur04u76?svg=true)](https://ci.appveyor.com/project/danielgerlag/workflow-core)
 
